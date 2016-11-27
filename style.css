@@ -1,16 +1,13 @@
 @charset "utf-8";
 body {
-	font-color:#00F;
+	color:#000;
 }
-p {
-	background-color:#FF0；
-	}/* CSS Document */
 	
 a:link {
 	text-decoration:none;
 }
 
-a:visited{
+a:visited {
 	text-decoration:overline;
 }
 a:hover {
