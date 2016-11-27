@@ -1,0 +1,20 @@
+@charset "utf-8";
+body {
+	font-color:#00F;
+}
+p {
+	background-color:#FF0；
+	}/* CSS Document */
+	
+a:link {
+	text-decoration:none;
+}
+
+a:visited{
+	text-decoration:overline;
+}
+a:hover {
+	text-decoration:none;
+	background-color:#00F;
+}
+
